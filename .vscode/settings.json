@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "stats.h": "c",
+        "stdlib.h": "c",
+        "list.h": "c",
+        "table-private.h": "c",
+        "table.h": "c",
+        "server_skeleton.h": "c",
+        "client_stub.h": "c",
+        "pthread.h": "c",
+        "client_network.h": "c",
+        "htmessages.pb-c.h": "c",
+        "client_stub-private.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "socket.h": "c",
+        "server_network.h": "c"
+    }
+}

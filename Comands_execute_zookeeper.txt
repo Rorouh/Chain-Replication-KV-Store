@@ -1,0 +1,11 @@
+1.- Install Zookeeper and start it to then execute our program and it will connect directly
+
+2.- zkCli.s -server localhost:2181
+3.- create /chain ""
+4.- (Permisos) setAcl /chain world:anyone:cdrwa
+
+
+5.- (In a different linux terminal) ./binary/server_hashtable 8080 5 localhost:2181
+
+6.- (In a differente linux terminal from server)  
+
